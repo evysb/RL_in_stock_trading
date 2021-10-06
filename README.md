@@ -1,1 +1,1 @@
-# RL_in_stock_trading
+O material neste repositório são scripts do Professor Jones Granatyr modificador por mim.
