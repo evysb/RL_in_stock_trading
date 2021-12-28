@@ -1,1 +1,1 @@
-O material neste repositório são scripts do Professor Jones Granatyr modificador por mim.
+O material neste repositório são scripts do Professor Jones Granatyr modificado por mim.
